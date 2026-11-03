@@ -4,21 +4,23 @@
 
 This repository contains my submissions for the EduRankAI Cybersecurity Internship Assessment. I have selected and completed Task 13 and Task 15 from the Assessment Task Catalogue, focusing on practical defensive tooling and secure identity management.
 
-Repository Structure
+## Repository Structure
 
+```text
 Cybersecurity_assessment/
 │
 ├── README.md
 │
-├── defensive_tool/                  # Task 13: Build a Small Defensive Security Tool
-│   ├── scanner.py                   # Python script for local secret scanning
-│   ├── test_cases.md                # Documented test cases and expected outcomes
-│   ├── sample_output.txt            # Real execution output from a test scan
-│   └── README.md                    # Setup and execution instructions
+├── defensive_tool/                # Task 13: Build a Small Defensive Security Tool
+│   ├── scanner.py                 # Python script for local secret scanning
+│   ├── test_cases.md              # Documented test cases and expected outcomes
+│   ├── sample_output.txt          # Real execution output from a test scan
+│   └── README.md                  # Setup and execution instructions
 │
-└── account_recovery/                # Task 15: Account Recovery: The Weakest Link
-    ├── Risk_Analysis.md             # Security flaw assessment of the existing DOB/Email flow
-    └── Redesigned_Flow.md           # Proposed secure, user-friendly recovery architecture
+└── account_recovery/              # Task 15: Account Recovery: The Weakest Link
+    ├── Risk_Analysis.md           # Security flaw assessment of the existing DOB/Email flow
+    └── Redesigned_Flow.md         # Proposed secure, user-friendly recovery architecture
+```
 
 
 ## Task Summaries
